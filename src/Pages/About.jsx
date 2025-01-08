@@ -6,7 +6,7 @@ const About = () => {
         <div className='flex flex-col gap-5 text-justify mx-auto'>
 
                 <h1 className='text-2xl md:text-3xl font-bold mb-8 text-[#4dd0e4f2]'>
-                    About Me
+                    About Me.
                 </h1>
 
 
